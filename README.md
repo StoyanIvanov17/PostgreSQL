@@ -1,1 +1,1 @@
-# SoftUni_DB
+# SoftUni_PostgreSQL
